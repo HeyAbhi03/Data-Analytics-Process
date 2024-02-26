@@ -1,5 +1,6 @@
 # DATA-ANALYTICS-PROCESS
-## Application in Real Life Scenario Case Study | Finding Best Online Certification Course
+## Finding Best Professional Laptop
+
 VIDEO EXPLAINING PROJECT : 
 MEDIUM BLOG LINK : 
 
