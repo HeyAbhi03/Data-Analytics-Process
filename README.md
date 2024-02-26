@@ -19,10 +19,9 @@ YOUR TASK:<br>
 Your task is to give the example(s) of such a real-life situation where we use Data Analytics and link it with the data analytics process. You can prepare a PPT/PDF on a real-life scenario explaining it with the above process (Plan, Prepare, Process, Analyze, Share, Act) and submit it as part of this task.
 
 ## PRESENTATION OVERVIEW
-(https://github.com/HeyAbhi03/Data-Analytics-Process/assets/161314096/4d060bb3-915f-4f85-a1ca-80e6dd980030)
-(https://github.com/HeyAbhi03/Data-Analytics-Process/assets/161314096/3670521b-5be9-4c54-b558-26bc1cc5f60f)
-(https://github.com/HeyAbhi03/Data-Analytics-Process/assets/161314096/7c90b460-5fe2-4871-8a91-43e35b8b8443)
-(https://github.com/HeyAbhi03/Data-Analytics-Process/assets/161314096/257b0876-2eb6-47fb-aef8-de1aad3d182b)
-
+![image](https://github.com/HeyAbhi03/Data-Analytics-Process/assets/161314096/4d060bb3-915f-4f85-a1ca-80e6dd980030)
+![image](https://github.com/HeyAbhi03/Data-Analytics-Process/assets/161314096/3670521b-5be9-4c54-b558-26bc1cc5f60f)
+![image](https://github.com/HeyAbhi03/Data-Analytics-Process/assets/161314096/7c90b460-5fe2-4871-8a91-43e35b8b8443)
+![image](https://github.com/HeyAbhi03/Data-Analytics-Process/assets/161314096/257b0876-2eb6-47fb-aef8-de1aad3d182b)
 
 
