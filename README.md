@@ -1,9 +1,6 @@
 # DATA-ANALYTICS-PROCESS
 ## Application in Real Life Scenario Case Study | Finding Best Professional Laptop
 
-VIDEO EXPLAINING PROJECT : 
-MEDIUM BLOG LINK : 
-
 ## PROBLEM STATEMENT
 Description:
 We use Data Analytics in everyday life without even knowing it.
