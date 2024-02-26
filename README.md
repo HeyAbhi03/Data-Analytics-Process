@@ -1,5 +1,5 @@
 # DATA-ANALYTICS-PROCESS
-## Finding Best Professional Laptop
+## Application in Real Life Scenario Case Study | Finding Best Professional Laptop
 
 VIDEO EXPLAINING PROJECT : 
 MEDIUM BLOG LINK : 
